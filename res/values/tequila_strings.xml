@@ -6,6 +6,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- tequila -->
     <string name="tequila_version">tequilaOS version</string>
+    <string name="default_string">Default</string>
 
     <!-- Min/Max refresh rate -->
     <string name="min_refresh_rate_title">Minimum refresh rate</string>
@@ -142,6 +143,11 @@
     <string name="qs_brightness_slider_position_title">Position</string>
     <string name="qs_brightness_slider_position_top">Top</string>
     <string name="qs_brightness_slider_position_bottom">Bottom</string>
+
+    <!-- Quick Settings styles -->
+    <string name="qs_styles_header_title">Quick Settings</string>
+    <string name="qs_styles_title">Quick Settings Styles</string>
+    <string name="qs_two_tone">Two-Tone Accent</string>
 
     <!-- Quick Settings brightness icon -->
     <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
